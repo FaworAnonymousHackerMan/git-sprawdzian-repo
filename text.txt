@@ -1,0 +1,22 @@
+Plik 6
+04.11.2022 13:17
+
+$ cd Documents
+
+
+$ mkdir Spr_git_Jakub_Slodkowski_2TP
+
+
+$ cd Spr_git_Jakub_Slodkowski_2TP
+
+$ git init
+
+
+
+$ touch text.txt
+
+
+$ git add .
+
+
+$ git commit -m "PoczatekProjektu"
